@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kongdir/hello-world#readme",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.2"
   }
 }
